@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";import{a as n,o as t,b as c,f as r}from"./index.c0848e0f.js";const a={};function s(_,p){const e=n("Exception");return t(),c("div",null,[r(e,{type:"404"})])}var m=o(a,[["render",s]]);export{m as default};
