@@ -1,1 +1,1 @@
-https://wangy0316.github.io/resume/home.html
+https://wangy0316.github.io/resume/index.html
